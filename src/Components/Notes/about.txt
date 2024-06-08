@@ -1,0 +1,22 @@
+My name is Mg Ye Win Naing, and I am excited to introduce myself as a Full Stack Developer with a solid background in web development and hands-on project experience.
+
+I am proficient in HTML, CSS, JavaScript, and PHP, and have experience with frontend libraries such as Vue.js, React, and jQuery. For styling, I am skilled in Bootstrap and TailwindCSS. On the backend, I have extensive knowledge of Laravel and am currently improving my skills in Node.js.
+
+In 2023, I completed a Full Stack Developer course at Strong Force School, earning certifications in Frontend and Backend Development, Object-Oriented Programming, DBMS, Framework Building, Laravel, and Vue.js. Additionally, I hold certifications from freeCodeCamp in Relational Databases, Responsive Web Design, and JavaScript Algorithms.
+
+One of my notable projects is Shift MM, a used car sales website, where I used Bootstrap for the backend, TailwindCSS for the frontend, and Vue.js for dynamic features like auto-suggestions. To optimize performance, I implemented Memcached technology to reduce repetitive database hits.
+
+My background also includes three years as a Supervisor at Mingalar Car Sale Center, giving me valuable industry insights. I am passionate about learning new technologies and thrive in challenging environments.
+
+I am eager to connect and discuss how my background and skills can be beneficial in various projects and collaborations. Thank you for taking the time to read my introduction. I look forward to any opportunity to connect further.
+
+Best regards,
+
+Mg Ye Win Naing
+
+Phone: +9509673127480
+Email: yewinnaing11605@gmail.com
+LinkedIn: www.linkedin.com/in/yewinnaing1160
+Project Demo: https://youtu.be/_c1wxI_UZps?si=HPM-WEC17XbWKrEK
+freeCodeCamp: https://www.freecodecamp.org/edem_yewinnaing
+GitHub: https://github.com/yewinnaingedem
